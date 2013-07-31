@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\bin\Debug\4.ThirdDigitChecker.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\bin\Debug\4.ThirdDigitChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\bin\Debug\4.ThirdDigitChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\obj\Debug\4.ThirdDigitChecker.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\obj\Debug\4.ThirdDigitChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\4.ThirdDigitChecker\obj\Debug\4.ThirdDigitChecker.pdb

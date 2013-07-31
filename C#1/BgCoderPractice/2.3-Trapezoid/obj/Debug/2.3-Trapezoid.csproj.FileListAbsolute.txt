@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\bin\Debug\2.3-Trapezoid.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\bin\Debug\2.3-Trapezoid.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\bin\Debug\2.3-Trapezoid.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\obj\Debug\2.3-Trapezoid.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\obj\Debug\2.3-Trapezoid.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.3-Trapezoid\obj\Debug\2.3-Trapezoid.pdb

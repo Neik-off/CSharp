@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\PrimitivesAndVariables\bin\Debug\PrimitivesAndVariables.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\PrimitivesAndVariables\bin\Debug\PrimitivesAndVariables.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\PrimitivesAndVariables\bin\Debug\PrimitivesAndVariables.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\PrimitivesAndVariables\obj\Debug\PrimitivesAndVariables.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\PrimitivesAndVariables\obj\Debug\PrimitivesAndVariables.pdb

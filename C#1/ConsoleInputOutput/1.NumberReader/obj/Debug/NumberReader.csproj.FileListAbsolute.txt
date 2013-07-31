@@ -1,0 +1,1 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleInputOutput\NumberReader\bin\Debug\NumberReader.exe.config

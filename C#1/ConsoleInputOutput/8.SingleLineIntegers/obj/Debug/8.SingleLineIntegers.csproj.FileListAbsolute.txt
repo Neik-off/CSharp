@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\8.SingleLineIntegers\bin\Debug\8.SingleLineIntegers.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\8.SingleLineIntegers\bin\Debug\8.SingleLineIntegers.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\8.SingleLineIntegers\bin\Debug\8.SingleLineIntegers.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\8.SingleLineIntegers\obj\Debug\8.SingleLineIntegers.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\8.SingleLineIntegers\obj\Debug\8.SingleLineIntegers.pdb

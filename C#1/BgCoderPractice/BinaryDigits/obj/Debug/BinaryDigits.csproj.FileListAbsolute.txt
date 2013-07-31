@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\bin\Debug\BinaryDigits.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\bin\Debug\BinaryDigits.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\bin\Debug\BinaryDigits.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\obj\Debug\BinaryDigits.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\obj\Debug\BinaryDigits.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\BinaryDigits\obj\Debug\BinaryDigits.pdb

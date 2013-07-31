@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\obj\Debug\VariablesWithPoint.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\obj\Debug\VariablesWithPoint.pdb

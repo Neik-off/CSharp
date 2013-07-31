@@ -1,0 +1,3 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\ForestRoad\bin\Debug\ForestRoad.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\ForestRoad\obj\Debug\ForestRoad.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\ForestRoad\obj\Debug\ForestRoad.pdb

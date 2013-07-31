@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\3.CompanyInformation\bin\Debug\3.CompanyInformation.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\3.CompanyInformation\bin\Debug\3.CompanyInformation.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\3.CompanyInformation\bin\Debug\3.CompanyInformation.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\3.CompanyInformation\obj\Debug\3.CompanyInformation.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\3.CompanyInformation\obj\Debug\3.CompanyInformation.pdb

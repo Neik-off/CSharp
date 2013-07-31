@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\4.FactorialsDividing\bin\Debug\4.FactorialsDividing.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\4.FactorialsDividing\bin\Debug\4.FactorialsDividing.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\4.FactorialsDividing\bin\Debug\4.FactorialsDividing.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\4.FactorialsDividing\obj\Debug\4.FactorialsDividing.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\4.FactorialsDividing\obj\Debug\4.FactorialsDividing.pdb

@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

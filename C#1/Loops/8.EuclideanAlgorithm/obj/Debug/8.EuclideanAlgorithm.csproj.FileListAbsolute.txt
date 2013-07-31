@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\bin\Debug\8.EuclideanAlgorithm.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\bin\Debug\8.EuclideanAlgorithm.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\bin\Debug\8.EuclideanAlgorithm.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\obj\Debug\8.EuclideanAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\obj\Debug\8.EuclideanAlgorithm.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\8.EuclideanAlgorithm\obj\Debug\8.EuclideanAlgorithm.pdb

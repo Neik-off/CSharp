@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\bin\Debug\1.IfStatementIntroduction.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\bin\Debug\1.IfStatementIntroduction.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\bin\Debug\1.IfStatementIntroduction.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\obj\Debug\1.IfStatementIntroduction.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\obj\Debug\1.IfStatementIntroduction.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\1.IfStatementIntroduction\obj\Debug\1.IfStatementIntroduction.pdb

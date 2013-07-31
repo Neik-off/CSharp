@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\3.LoopConsoleRead\bin\Debug\3.LoopConsoleRead.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\3.LoopConsoleRead\bin\Debug\3.LoopConsoleRead.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\3.LoopConsoleRead\bin\Debug\3.LoopConsoleRead.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\3.LoopConsoleRead\obj\Debug\3.LoopConsoleRead.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\3.LoopConsoleRead\obj\Debug\3.LoopConsoleRead.pdb

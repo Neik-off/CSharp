@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\bin\Debug\11.DeckCards.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\bin\Debug\11.DeckCards.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\bin\Debug\11.DeckCards.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\obj\Debug\11.DeckCards.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\obj\Debug\11.DeckCards.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\11.DeckCards\obj\Debug\11.DeckCards.pdb

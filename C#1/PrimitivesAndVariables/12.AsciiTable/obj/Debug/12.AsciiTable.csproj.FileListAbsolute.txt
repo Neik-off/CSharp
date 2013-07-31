@@ -1,0 +1,9 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\bin\Debug\AsciiTable.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\bin\Debug\AsciiTable.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\obj\Debug\12.AsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\obj\Debug\AsciiTable.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\AsciiTable\obj\Debug\AsciiTable.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\12.AsciiTable\bin\Debug\AsciiTable.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\12.AsciiTable\obj\Debug\AsciiTable.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\12.AsciiTable\obj\Debug\AsciiTable.pdb

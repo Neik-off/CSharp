@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\bin\Debug\1.Pesho'sGarden.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\bin\Debug\1.Pesho'sGarden.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\bin\Debug\1.Pesho'sGarden.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\obj\Debug\1.Pesho'sGarden.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\obj\Debug\1.Pesho'sGarden.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ExamFoundationCSharp\1.Pesho'sGarden\obj\Debug\1.Pesho'sGarden.pdb

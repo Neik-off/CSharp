@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\2.SignFinder\bin\Debug\2.SignFinder.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\2.SignFinder\bin\Debug\2.SignFinder.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\2.SignFinder\bin\Debug\2.SignFinder.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\2.SignFinder\obj\Debug\2.SignFinder.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\2.SignFinder\obj\Debug\2.SignFinder.pdb

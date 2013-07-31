@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\9.CatalanFormula\bin\Debug\9.CatalanFormula.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\9.CatalanFormula\bin\Debug\9.CatalanFormula.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\9.CatalanFormula\bin\Debug\9.CatalanFormula.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\9.CatalanFormula\obj\Debug\9.CatalanFormula.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\9.CatalanFormula\obj\Debug\9.CatalanFormula.pdb

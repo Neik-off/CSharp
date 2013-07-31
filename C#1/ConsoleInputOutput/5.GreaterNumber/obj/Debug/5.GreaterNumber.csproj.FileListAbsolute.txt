@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\bin\Debug\5.GreaterNumber.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\obj\Debug\5.GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\obj\Debug\5.GreaterNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\5.GreaterNumber\obj\Debug\5.GreaterNumber.pdb

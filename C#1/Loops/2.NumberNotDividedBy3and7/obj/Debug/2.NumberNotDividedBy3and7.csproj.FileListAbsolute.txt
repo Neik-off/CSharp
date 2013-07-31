@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\2.NumberNotDividedBy3and7\bin\Debug\2.NumberNotDividedBy3and7.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\2.NumberNotDividedBy3and7\bin\Debug\2.NumberNotDividedBy3and7.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\2.NumberNotDividedBy3and7\bin\Debug\2.NumberNotDividedBy3and7.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\2.NumberNotDividedBy3and7\obj\Debug\2.NumberNotDividedBy3and7.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\2.NumberNotDividedBy3and7\obj\Debug\2.NumberNotDividedBy3and7.pdb

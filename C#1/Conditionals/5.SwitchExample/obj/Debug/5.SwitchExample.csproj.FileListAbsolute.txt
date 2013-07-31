@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\bin\Debug\5.SwitchExample.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\bin\Debug\5.SwitchExample.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\bin\Debug\5.SwitchExample.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\obj\Debug\5.SwitchExample.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\obj\Debug\5.SwitchExample.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\5.SwitchExample\obj\Debug\5.SwitchExample.pdb

@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\bin\Debug\3.BiggestInteger.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\bin\Debug\3.BiggestInteger.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\bin\Debug\3.BiggestInteger.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\obj\Debug\3.BiggestInteger.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\obj\Debug\3.BiggestInteger.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\3.BiggestInteger\obj\Debug\3.BiggestInteger.csprojResolveAssemblyReference.cache

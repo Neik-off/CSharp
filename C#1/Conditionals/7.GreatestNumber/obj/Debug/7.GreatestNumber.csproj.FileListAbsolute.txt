@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\7.GreatestNumber\bin\Debug\7.GreatestNumber.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\7.GreatestNumber\bin\Debug\7.GreatestNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\7.GreatestNumber\bin\Debug\7.GreatestNumber.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\7.GreatestNumber\obj\Debug\7.GreatestNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\7.GreatestNumber\obj\Debug\7.GreatestNumber.pdb

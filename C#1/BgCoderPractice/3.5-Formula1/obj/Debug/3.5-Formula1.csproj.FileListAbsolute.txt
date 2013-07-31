@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\bin\Debug\3.5-Formula1.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\bin\Debug\3.5-Formula1.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\bin\Debug\3.5-Formula1.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\obj\Debug\3.5-Formula1.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\obj\Debug\3.5-Formula1.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.5-Formula1\obj\Debug\3.5-Formula1.pdb

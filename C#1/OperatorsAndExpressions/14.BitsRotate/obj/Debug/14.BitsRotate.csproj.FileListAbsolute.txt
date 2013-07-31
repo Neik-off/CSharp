@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\bin\Debug\14.BitsRotate.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\bin\Debug\14.BitsRotate.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\bin\Debug\14.BitsRotate.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\obj\Debug\14.BitsRotate.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\obj\Debug\14.BitsRotate.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\14.BitsRotate\obj\Debug\14.BitsRotate.csprojResolveAssemblyReference.cache

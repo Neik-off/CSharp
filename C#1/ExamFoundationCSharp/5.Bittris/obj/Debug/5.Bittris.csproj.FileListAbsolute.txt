@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\bin\Debug\5.Bittris.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\bin\Debug\5.Bittris.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\bin\Debug\5.Bittris.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\obj\Debug\5.Bittris.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\obj\Debug\5.Bittris.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\5.Bittris\obj\Debug\5.Bittris.pdb

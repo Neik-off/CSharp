@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\7.NumbersSum\bin\Debug\7.NumbersSum.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\7.NumbersSum\bin\Debug\7.NumbersSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\7.NumbersSum\bin\Debug\7.NumbersSum.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\7.NumbersSum\obj\Debug\7.NumbersSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\7.NumbersSum\obj\Debug\7.NumbersSum.pdb

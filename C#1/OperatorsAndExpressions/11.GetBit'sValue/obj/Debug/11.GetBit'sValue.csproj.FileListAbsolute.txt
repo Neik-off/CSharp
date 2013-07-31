@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11.GetBit'sValue\bin\Debug\11.GetBit'sValue.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11.GetBit'sValue\bin\Debug\11.GetBit'sValue.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11.GetBit'sValue\bin\Debug\11.GetBit'sValue.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11.GetBit'sValue\obj\Debug\11.GetBit'sValue.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\11.GetBit'sValue\obj\Debug\11.GetBit'sValue.pdb

@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleWriteName\bin\Debug\ConsoleWriteName.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleWriteName\bin\Debug\ConsoleWriteName.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleWriteName\bin\Debug\ConsoleWriteName.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleWriteName\obj\Debug\ConsoleWriteName.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleWriteName\obj\Debug\ConsoleWriteName.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleWriteName\bin\Debug\ConsoleWriteName.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleWriteName\obj\Debug\ConsoleWriteName.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleWriteName\obj\Debug\ConsoleWriteName.pdb

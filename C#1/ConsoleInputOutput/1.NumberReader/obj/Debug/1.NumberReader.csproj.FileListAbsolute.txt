@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\bin\Debug\NumberReader.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\bin\Debug\NumberReader.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\bin\Debug\NumberReader.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\obj\Debug\1.NumberReader.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\obj\Debug\NumberReader.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\1.NumberReader\obj\Debug\NumberReader.pdb

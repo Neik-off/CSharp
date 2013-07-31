@@ -1,0 +1,3 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\MissCat\bin\Debug\MissCat.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\MissCat\obj\Debug\MissCat.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\MissCat\obj\Debug\MissCat.pdb

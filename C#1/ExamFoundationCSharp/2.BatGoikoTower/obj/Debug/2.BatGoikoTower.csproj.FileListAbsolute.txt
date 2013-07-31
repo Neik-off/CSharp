@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.BatGoikoTower\bin\Debug\2.BatGoikoTower.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.BatGoikoTower\bin\Debug\2.BatGoikoTower.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.BatGoikoTower\bin\Debug\2.BatGoikoTower.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.BatGoikoTower\obj\Debug\2.BatGoikoTower.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.BatGoikoTower\obj\Debug\2.BatGoikoTower.pdb

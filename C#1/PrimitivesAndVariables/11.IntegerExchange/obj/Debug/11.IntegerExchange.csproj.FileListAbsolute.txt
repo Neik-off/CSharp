@@ -1,0 +1,8 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\IntegerExchange\bin\Debug\IntegerExchange.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\IntegerExchange\bin\Debug\IntegerExchange.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\IntegerExchange\bin\Debug\IntegerExchange.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\IntegerExchange\obj\Debug\IntegerExchange.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\IntegerExchange\obj\Debug\IntegerExchange.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\11.IntegerExchange\bin\Debug\IntegerExchange.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\11.IntegerExchange\obj\Debug\IntegerExchange.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\11.IntegerExchange\obj\Debug\IntegerExchange.pdb

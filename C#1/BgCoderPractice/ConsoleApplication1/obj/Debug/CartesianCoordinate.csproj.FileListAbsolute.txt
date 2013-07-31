@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\obj\Debug\CartesianCoordinate.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

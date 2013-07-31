@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\bin\Debug\5.BitChecker.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\bin\Debug\5.BitChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\bin\Debug\5.BitChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\obj\Debug\5.BitChecker.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\obj\Debug\5.BitChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\5.BitChecker\obj\Debug\5.BitChecker.pdb

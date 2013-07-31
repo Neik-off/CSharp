@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\obj\Debug\UnicodeInt.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\obj\Debug\UnicodeInt.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\obj\Debug\UnicodeInt.csprojResolveAssemblyReference.cache

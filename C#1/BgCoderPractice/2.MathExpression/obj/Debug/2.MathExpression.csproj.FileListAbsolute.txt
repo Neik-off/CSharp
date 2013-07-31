@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\bin\Debug\2.MathExpression.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\bin\Debug\2.MathExpression.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\bin\Debug\2.MathExpression.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\obj\Debug\2.MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\obj\Debug\2.MathExpression.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MathExpression\obj\Debug\2.MathExpression.pdb

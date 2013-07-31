@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\StringTest\bin\Debug\StringTest.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\StringTest\bin\Debug\StringTest.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\StringTest\bin\Debug\StringTest.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\StringTest\obj\Debug\StringTest.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\StringTest\obj\Debug\StringTest.pdb

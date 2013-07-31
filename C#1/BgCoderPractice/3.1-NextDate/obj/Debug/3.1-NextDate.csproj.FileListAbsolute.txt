@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\bin\Debug\3.1-NextDate.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\bin\Debug\3.1-NextDate.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\bin\Debug\3.1-NextDate.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\obj\Debug\3.1-NextDate.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\obj\Debug\3.1-NextDate.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.1-NextDate\obj\Debug\3.1-NextDate.pdb

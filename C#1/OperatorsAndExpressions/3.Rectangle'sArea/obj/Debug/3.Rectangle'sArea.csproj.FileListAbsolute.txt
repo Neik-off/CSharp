@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\Rectangle'sArea\obj\Debug\Rectangle'sArea.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\Rectangle'sArea\obj\Debug\Rectangle'sArea.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\3.Rectangle'sArea\bin\Debug\Rectangle'sArea.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\3.Rectangle'sArea\obj\Debug\Rectangle'sArea.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\3.Rectangle'sArea\obj\Debug\Rectangle'sArea.pdb

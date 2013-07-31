@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\bin\Debug\2.MajorityMultiple.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\bin\Debug\2.MajorityMultiple.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\bin\Debug\2.MajorityMultiple.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\obj\Debug\2.2-MajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\obj\Debug\2.MajorityMultiple.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.MajorityMultiple\obj\Debug\2.MajorityMultiple.pdb

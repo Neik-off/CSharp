@@ -1,0 +1,8 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\FloatingPoint\bin\Debug\FloatingPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\FloatingPoint\bin\Debug\FloatingPoint.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\FloatingPoint\obj\Debug\FloatingPoint.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\3.FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\3.FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\3.FloatingPoint\obj\Debug\FloatingPoint.pdb

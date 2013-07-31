@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\bin\Debug\3.CardWars.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\bin\Debug\3.CardWars.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\bin\Debug\3.CardWars.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\obj\Debug\3.CardWars.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\obj\Debug\3.CardWars.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\3.CardWars\obj\Debug\3.CardWars.pdb

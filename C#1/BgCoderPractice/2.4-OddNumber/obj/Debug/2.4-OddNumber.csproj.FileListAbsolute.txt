@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\bin\Debug\2.4-OddNumber.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\bin\Debug\2.4-OddNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\bin\Debug\2.4-OddNumber.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\obj\Debug\2.4-OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\obj\Debug\2.4-OddNumber.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\2.4-OddNumber\obj\Debug\2.4-OddNumber.pdb

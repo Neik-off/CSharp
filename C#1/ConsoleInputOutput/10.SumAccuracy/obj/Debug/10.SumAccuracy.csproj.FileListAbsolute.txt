@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.pdb

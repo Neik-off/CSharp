@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\bin\Debug\8.ConsoleSwitch.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\bin\Debug\8.ConsoleSwitch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\bin\Debug\8.ConsoleSwitch.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\obj\Debug\8.ConsoleSwitch.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\obj\Debug\8.ConsoleSwitch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\8.ConsoleSwitch\obj\Debug\8.ConsoleSwitch.pdb

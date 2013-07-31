@@ -1,0 +1,3 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\SubsetSums\bin\Debug\SubsetSums.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\SubsetSums\obj\Debug\SubsetSums.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\SubsetSums\obj\Debug\SubsetSums.pdb

@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\bin\Debug\11.NumbersToText.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\bin\Debug\11.NumbersToText.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\bin\Debug\11.NumbersToText.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\obj\Debug\11.NumbersToText.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\obj\Debug\11.NumbersToText.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\11.NumbersToText\obj\Debug\11.NumbersToText.pdb

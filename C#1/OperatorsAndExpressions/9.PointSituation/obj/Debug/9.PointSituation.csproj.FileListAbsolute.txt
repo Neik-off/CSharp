@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\bin\Debug\9.PointSituation.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\bin\Debug\9.PointSituation.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\bin\Debug\9.PointSituation.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\obj\Debug\9.PointSituation.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\obj\Debug\9.PointSituation.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\9.PointSituation\obj\Debug\9.PointSituation.pdb

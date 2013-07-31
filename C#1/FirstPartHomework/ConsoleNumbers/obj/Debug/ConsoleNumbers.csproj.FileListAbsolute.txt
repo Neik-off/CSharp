@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleNumbers\bin\Debug\ConsoleNumbers.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleNumbers\bin\Debug\ConsoleNumbers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleNumbers\bin\Debug\ConsoleNumbers.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleNumbers\obj\Debug\ConsoleNumbers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleNumbers\obj\Debug\ConsoleNumbers.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleNumbers\bin\Debug\ConsoleNumbers.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleNumbers\obj\Debug\ConsoleNumbers.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\ConsoleNumbers\obj\Debug\ConsoleNumbers.pdb

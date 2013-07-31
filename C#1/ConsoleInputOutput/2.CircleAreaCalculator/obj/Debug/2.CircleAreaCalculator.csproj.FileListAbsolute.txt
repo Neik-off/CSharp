@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\2.CircleAreaCalculator\bin\Debug\2.CircleAreaCalculator.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\2.CircleAreaCalculator\bin\Debug\2.CircleAreaCalculator.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\2.CircleAreaCalculator\bin\Debug\2.CircleAreaCalculator.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\2.CircleAreaCalculator\obj\Debug\2.CircleAreaCalculator.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\2.CircleAreaCalculator\obj\Debug\2.CircleAreaCalculator.pdb

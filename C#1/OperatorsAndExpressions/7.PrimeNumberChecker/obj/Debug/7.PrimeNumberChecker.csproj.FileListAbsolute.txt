@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\bin\Debug\7.PrimeNumberChecker.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\bin\Debug\7.PrimeNumberChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\bin\Debug\7.PrimeNumberChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\obj\Debug\7.PrimeNumberChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\obj\Debug\7.PrimeNumberChecker.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\7.PrimeNumberChecker\obj\Debug\7.PrimeNumberChecker.csprojResolveAssemblyReference.cache

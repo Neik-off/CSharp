@@ -1,0 +1,8 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\StringIntroduction\bin\Debug\StringIntroduction.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\StringIntroduction\bin\Debug\StringIntroduction.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\StringIntroduction\bin\Debug\StringIntroduction.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\StringIntroduction\obj\Debug\StringIntroduction.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\StringIntroduction\obj\Debug\StringIntroduction.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\7.StringIntroduction\bin\Debug\StringIntroduction.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\7.StringIntroduction\obj\Debug\StringIntroduction.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\7.StringIntroduction\obj\Debug\StringIntroduction.pdb

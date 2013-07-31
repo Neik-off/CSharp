@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\bin\Debug\3.4-Carpets.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\bin\Debug\3.4-Carpets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\bin\Debug\3.4-Carpets.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\obj\Debug\3.4-Carpets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\obj\Debug\3.4-Carpets.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.4-Carpets\obj\Debug\3.4-Carpets.csprojResolveAssemblyReference.cache

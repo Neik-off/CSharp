@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\bin\Debug\3.3-Sheets.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\bin\Debug\3.3-Sheets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\bin\Debug\3.3-Sheets.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\obj\Debug\3.3-Sheets.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\obj\Debug\3.3-Sheets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.3-Sheets\obj\Debug\3.3-Sheets.pdb

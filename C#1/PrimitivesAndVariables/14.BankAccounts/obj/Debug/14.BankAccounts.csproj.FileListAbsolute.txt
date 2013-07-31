@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\14.BankAccounts\bin\Debug\14.BankAccounts.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\14.BankAccounts\bin\Debug\14.BankAccounts.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\14.BankAccounts\bin\Debug\14.BankAccounts.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\14.BankAccounts\obj\Debug\14.BankAccounts.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\14.BankAccounts\obj\Debug\14.BankAccounts.pdb

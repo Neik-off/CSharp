@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\GenderChecker\bin\Debug\GenderChecker.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\GenderChecker\bin\Debug\GenderChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\GenderChecker\bin\Debug\GenderChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\GenderChecker\obj\Debug\GenderChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\PrimitivesAndVariables\GenderChecker\obj\Debug\GenderChecker.pdb

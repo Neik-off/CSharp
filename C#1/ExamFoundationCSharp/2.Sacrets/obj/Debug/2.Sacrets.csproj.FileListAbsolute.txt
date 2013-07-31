@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\bin\Debug\2.Sacrets.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\bin\Debug\2.Sacrets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\bin\Debug\2.Sacrets.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\obj\Debug\2.Sacrets.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\obj\Debug\2.Sacrets.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ExamFoundationCSharp\2.Sacrets\obj\Debug\2.Sacrets.pdb

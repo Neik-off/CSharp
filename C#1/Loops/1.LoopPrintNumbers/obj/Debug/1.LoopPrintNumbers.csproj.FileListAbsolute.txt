@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\bin\Debug\1.LoopPrintNumbers.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\bin\Debug\1.LoopPrintNumbers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\bin\Debug\1.LoopPrintNumbers.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\obj\Debug\1.LoopPrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\obj\Debug\1.LoopPrintNumbers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\1.LoopPrintNumbers\obj\Debug\1.LoopPrintNumbers.pdb

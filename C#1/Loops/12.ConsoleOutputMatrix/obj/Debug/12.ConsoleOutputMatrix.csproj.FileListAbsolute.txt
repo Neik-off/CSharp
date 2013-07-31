@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\bin\Debug\12.ConsoleOutputMatrix.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\bin\Debug\12.ConsoleOutputMatrix.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\bin\Debug\12.ConsoleOutputMatrix.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\obj\Debug\12.ConsoleOutputMatrix.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\obj\Debug\12.ConsoleOutputMatrix.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Loops\12.ConsoleOutputMatrix\obj\Debug\12.ConsoleOutputMatrix.csprojResolveAssemblyReference.cache

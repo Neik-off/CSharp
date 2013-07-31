@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\bin\Debug\6.PointWithinCircle.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\bin\Debug\6.PointWithinCircle.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\bin\Debug\6.PointWithinCircle.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\obj\Debug\6.PointWithinCircle.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\obj\Debug\6.PointWithinCircle.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\OperatorsAndExpressions\6.PointWithinCircle\obj\Debug\6.PointWithinCircle.pdb

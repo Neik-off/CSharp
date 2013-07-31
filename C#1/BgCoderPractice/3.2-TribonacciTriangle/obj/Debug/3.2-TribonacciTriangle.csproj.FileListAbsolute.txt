@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\bin\Debug\3.2-TribonacciTriangle.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\bin\Debug\3.2-TribonacciTriangle.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\bin\Debug\3.2-TribonacciTriangle.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\obj\Debug\3.2-TribonacciTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\obj\Debug\3.2-TribonacciTriangle.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\3.2-TribonacciTriangle\obj\Debug\3.2-TribonacciTriangle.pdb

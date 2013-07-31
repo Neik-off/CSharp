@@ -1,0 +1,9 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\bin\Debug\AgeCalculator.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\bin\Debug\AgeCalculator.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\obj\Debug\AgeCalculator.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\obj\Debug\AgeCalculator.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\AgeCalculator\obj\Debug\AgeCalculator.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\AgeCalculator\obj\Debug\AgeCalculator.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\AgeCalculator\obj\Debug\AgeCalculator.pdb

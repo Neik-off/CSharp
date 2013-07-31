@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\5.FactorialsOperations\bin\Debug\5.FactorialsOperations.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\5.FactorialsOperations\bin\Debug\5.FactorialsOperations.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\5.FactorialsOperations\bin\Debug\5.FactorialsOperations.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\5.FactorialsOperations\obj\Debug\5.FactorialsOperations.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\5.FactorialsOperations\obj\Debug\5.FactorialsOperations.pdb

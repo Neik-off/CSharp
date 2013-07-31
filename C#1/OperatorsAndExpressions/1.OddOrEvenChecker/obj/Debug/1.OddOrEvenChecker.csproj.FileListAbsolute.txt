@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\bin\Debug\OperatorsAndExpressions.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\obj\Debug\OperatorsAndExpressions.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\obj\Debug\OperatorsAndExpressions.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\bin\Debug\OperatorsAndExpressions.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\bin\Debug\OperatorsAndExpressions.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\1.OddOrEvenChecker\obj\Debug\1.OddOrEvenChecker.csprojResolveAssemblyReference.cache

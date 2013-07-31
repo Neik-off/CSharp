@@ -1,0 +1,3 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\BinaryDigits\bin\Debug\BinaryDigits.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\BinaryDigits\obj\Debug\BinaryDigits.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\BgCoderPractice\BinaryDigits\obj\Debug\BinaryDigits.pdb

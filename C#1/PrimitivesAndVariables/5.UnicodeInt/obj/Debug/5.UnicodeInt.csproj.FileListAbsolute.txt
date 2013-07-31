@@ -1,0 +1,8 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\bin\Debug\UnicodeInt.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\obj\Debug\UnicodeInt.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\UnicodeInt\obj\Debug\UnicodeInt.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\5.UnicodeInt\bin\Debug\UnicodeInt.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\5.UnicodeInt\obj\Debug\UnicodeInt.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\5.UnicodeInt\obj\Debug\UnicodeInt.pdb

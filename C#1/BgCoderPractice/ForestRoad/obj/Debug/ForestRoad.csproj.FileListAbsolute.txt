@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\bin\Debug\ForestRoad.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\bin\Debug\ForestRoad.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\bin\Debug\ForestRoad.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\obj\Debug\ForestRoad.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\BgCoderPractice\ForestRoad\obj\Debug\ForestRoad.pdb

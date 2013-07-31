@@ -1,0 +1,3 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\obj\Debug\NumberSequence.pdb

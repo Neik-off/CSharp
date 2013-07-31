@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\bin\Debug\11.ConsoleFallingRocksGame.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\obj\Debug\11.ConsoleFallingRocksGame.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\bin\Debug\11.ConsoleFallingRocksGame.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\bin\Debug\11.ConsoleFallingRocksGame.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\obj\Debug\11.ConsoleFallingRocksGame.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11.ConsoleFallingRocksGame\obj\Debug\11.ConsoleFallingRocksGame.pdb

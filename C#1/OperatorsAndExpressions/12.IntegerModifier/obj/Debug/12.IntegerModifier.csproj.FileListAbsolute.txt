@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IntegerModifier\bin\Debug\12.IntegerModifier.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IntegerModifier\bin\Debug\12.IntegerModifier.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IntegerModifier\bin\Debug\12.IntegerModifier.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IntegerModifier\obj\Debug\12.IntegerModifier.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IntegerModifier\obj\Debug\12.IntegerModifier.pdb

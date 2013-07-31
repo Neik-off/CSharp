@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

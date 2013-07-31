@@ -1,0 +1,8 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange2\bin\Debug\13.BitsExchange2.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange2\obj\Debug\13.BitsExchange2.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange2\obj\Debug\13.BitsExchange2.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange2\bin\Debug\13.BitsExchange2.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange2\bin\Debug\13.BitsExchange2.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange\bin\Debug\13.BitsExchange2.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange\obj\Debug\13.BitsExchange2.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.BitsExchange\obj\Debug\13.BitsExchange2.pdb

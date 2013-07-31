@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\bin\Debug\4.ConsoleDivisionWithReminder.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\bin\Debug\4.ConsoleDivisionWithReminder.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\bin\Debug\4.ConsoleDivisionWithReminder.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\obj\Debug\4.ConsoleDivisionWithReminder.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\obj\Debug\4.ConsoleDivisionWithReminder.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\4.ConsoleDivisionWithReminder\obj\Debug\4.ConsoleDivisionWithReminder.pdb

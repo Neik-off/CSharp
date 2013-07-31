@@ -1,0 +1,9 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\bin\Debug\VariablesWithPoint.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\obj\Debug\2.VariablesWithPoint.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\obj\Debug\VariablesWithPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\VariablesWithPoint\obj\Debug\VariablesWithPoint.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\2.VariablesWithPoint\bin\Debug\VariablesWithPoint.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\2.VariablesWithPoint\obj\Debug\VariablesWithPoint.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\PrimitivesAndVariables\2.VariablesWithPoint\obj\Debug\VariablesWithPoint.pdb

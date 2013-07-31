@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\bin\Debug\10.ConsoleSwitchDigit.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\bin\Debug\10.ConsoleSwitchDigit.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\bin\Debug\10.ConsoleSwitchDigit.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\obj\Debug\10.ConsoleSwitchDigit.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\obj\Debug\10.ConsoleSwitchDigit.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Conditionals\10.ConsoleSwitchDigit\obj\Debug\10.ConsoleSwitchDigit.pdb

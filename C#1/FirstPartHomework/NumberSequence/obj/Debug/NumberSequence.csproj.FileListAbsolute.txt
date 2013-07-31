@@ -1,0 +1,8 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\NumberSequence\bin\Debug\NumberSequence.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\NumberSequence\bin\Debug\NumberSequence.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\NumberSequence\bin\Debug\NumberSequence.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\NumberSequence\obj\Debug\NumberSequence.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\ConsoleApplication2\NumberSequence\obj\Debug\NumberSequence.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\FirstPartHomework\NumberSequence\obj\Debug\NumberSequence.pdb

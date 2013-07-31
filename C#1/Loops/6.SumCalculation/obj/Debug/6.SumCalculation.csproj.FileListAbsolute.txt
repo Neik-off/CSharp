@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\bin\Debug\6.SumCalculation.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\bin\Debug\6.SumCalculation.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\bin\Debug\6.SumCalculation.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\obj\Debug\6.SumCalculation.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\obj\Debug\6.SumCalculation.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Loops\6.SumCalculation\obj\Debug\6.SumCalculation.pdb

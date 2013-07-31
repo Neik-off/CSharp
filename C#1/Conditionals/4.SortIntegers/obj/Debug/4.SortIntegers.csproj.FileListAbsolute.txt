@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\bin\Debug\4.SortIntegers.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\bin\Debug\4.SortIntegers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\bin\Debug\4.SortIntegers.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\obj\Debug\4.SortIntegers.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\obj\Debug\4.SortIntegers.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Conditionals\4.SortIntegers\obj\Debug\4.SortIntegers.csprojResolveAssemblyReference.cache
