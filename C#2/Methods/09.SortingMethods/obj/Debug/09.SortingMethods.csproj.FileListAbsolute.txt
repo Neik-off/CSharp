@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\bin\Debug\09.SortingMethods.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\bin\Debug\09.SortingMethods.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\bin\Debug\09.SortingMethods.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\obj\Debug\09.SortingMethods.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\obj\Debug\09.SortingMethods.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\09.SortingMethods\obj\Debug\09.SortingMethods.pdb

@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\bin\Debug\1.MatrixNtoN.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\bin\Debug\1.MatrixNtoN.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\bin\Debug\1.MatrixNtoN.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\obj\Debug\1.MatrixNtoN.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\obj\Debug\1.MatrixNtoN.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.MatrixNtoN\obj\Debug\1.MatrixNtoN.pdb

@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\bin\Debug\05.NeighboursChecker.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\bin\Debug\05.NeighboursChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\bin\Debug\05.NeighboursChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\obj\Debug\05.NeighboursChecker.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\obj\Debug\05.NeighboursChecker.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\05.NeighboursChecker\obj\Debug\05.NeighboursChecker.csprojResolveAssemblyReference.cache

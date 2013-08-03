@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\bin\Debug\7.LargestArea.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\bin\Debug\7.LargestArea.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\bin\Debug\7.LargestArea.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\obj\Debug\7.LargestArea.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\obj\Debug\7.LargestArea.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\7.LargestArea\obj\Debug\7.LargestArea.pdb

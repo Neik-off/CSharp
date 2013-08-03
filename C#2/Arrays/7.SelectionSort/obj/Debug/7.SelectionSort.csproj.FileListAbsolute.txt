@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.pdb

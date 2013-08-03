@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\bin\Debug\4.EqualSequence.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\bin\Debug\4.EqualSequence.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\bin\Debug\4.EqualSequence.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\obj\Debug\4.EqualSequence.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\obj\Debug\4.EqualSequence.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\4.EqualSequence\obj\Debug\4.EqualSequence.pdb

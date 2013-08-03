@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\bin\Debug\07.DigitReversing.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\bin\Debug\07.DigitReversing.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\bin\Debug\07.DigitReversing.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\obj\Debug\07.DigitReversing.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\obj\Debug\07.DigitReversing.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\07.DigitReversing\obj\Debug\07.DigitReversing.pdb

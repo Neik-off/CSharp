@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\bin\Debug\10.MethodN!.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\bin\Debug\10.MethodN!.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\bin\Debug\10.MethodN!.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\obj\Debug\10.MethodN!.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\obj\Debug\10.MethodN!.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\10.MethodN!\obj\Debug\10.MethodN!.pdb

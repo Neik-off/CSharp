@@ -1,0 +1,5 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.B-Matrix\bin\Debug\1.B-Matrix.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.B-Matrix\bin\Debug\1.B-Matrix.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.B-Matrix\bin\Debug\1.B-Matrix.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.B-Matrix\obj\Debug\1.B-Matrix.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.B-Matrix\obj\Debug\1.B-Matrix.pdb

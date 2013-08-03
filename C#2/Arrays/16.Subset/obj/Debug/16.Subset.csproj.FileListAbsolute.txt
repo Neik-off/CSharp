@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\bin\Debug\16.Subset.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\bin\Debug\16.Subset.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\bin\Debug\16.Subset.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\obj\Debug\16.Subset.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\obj\Debug\16.Subset.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\16.Subset\obj\Debug\16.Subset.csprojResolveAssemblyReference.cache

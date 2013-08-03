@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\bin\Debug\8.MaximalSeqeunceSum.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\bin\Debug\8.MaximalSeqeunceSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\bin\Debug\8.MaximalSeqeunceSum.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\obj\Debug\8.MaximalSeqeunceSum.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\obj\Debug\8.MaximalSeqeunceSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\8.MaximalSeqeunceSum\obj\Debug\8.MaximalSeqeunceSum.pdb

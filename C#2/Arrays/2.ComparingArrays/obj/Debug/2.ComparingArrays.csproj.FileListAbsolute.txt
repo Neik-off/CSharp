@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\bin\Debug\2.ComparingArrays.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\bin\Debug\2.ComparingArrays.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\bin\Debug\2.ComparingArrays.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\obj\Debug\2.ComparingArrays.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\obj\Debug\2.ComparingArrays.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\2.ComparingArrays\obj\Debug\2.ComparingArrays.pdb

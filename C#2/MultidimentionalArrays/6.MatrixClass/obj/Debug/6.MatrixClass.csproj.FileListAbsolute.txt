@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\bin\Debug\6.MatrixClass.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\bin\Debug\6.MatrixClass.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\bin\Debug\6.MatrixClass.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\obj\Debug\6.MatrixClass.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\obj\Debug\6.MatrixClass.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\6.MatrixClass\obj\Debug\6.MatrixClass.pdb

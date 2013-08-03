@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\bin\Debug\19.NPermutations.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\bin\Debug\19.NPermutations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\bin\Debug\19.NPermutations.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\obj\Debug\19.NPermutations.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\obj\Debug\19.NPermutations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\19.NPermutations\obj\Debug\19.NPermutations.pdb

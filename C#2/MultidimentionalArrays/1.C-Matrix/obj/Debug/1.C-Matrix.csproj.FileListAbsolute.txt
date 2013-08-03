@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\bin\Debug\1.C-Matrix.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\bin\Debug\1.C-Matrix.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\bin\Debug\1.C-Matrix.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\obj\Debug\1.C-Matrix.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\obj\Debug\1.C-Matrix.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.C-Matrix\obj\Debug\1.C-Matrix.csprojResolveAssemblyReference.cache

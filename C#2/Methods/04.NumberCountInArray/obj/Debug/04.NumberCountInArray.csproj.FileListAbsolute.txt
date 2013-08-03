@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\bin\Debug\04.NumberCountInArray.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\bin\Debug\04.NumberCountInArray.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\bin\Debug\04.NumberCountInArray.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\obj\Debug\04.NumberCountInArray.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\obj\Debug\04.NumberCountInArray.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Methods\04.NumberCountInArray\obj\Debug\04.NumberCountInArray.csprojResolveAssemblyReference.cache

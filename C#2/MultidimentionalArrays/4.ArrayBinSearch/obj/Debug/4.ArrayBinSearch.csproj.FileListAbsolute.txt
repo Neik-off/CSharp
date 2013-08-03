@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\bin\Debug\4.ArrayBinSearch.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\bin\Debug\4.ArrayBinSearch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\bin\Debug\4.ArrayBinSearch.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\obj\Debug\4.ArrayBinSearch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\obj\Debug\4.ArrayBinSearch.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\4.ArrayBinSearch\obj\Debug\4.ArrayBinSearch.csprojResolveAssemblyReference.cache

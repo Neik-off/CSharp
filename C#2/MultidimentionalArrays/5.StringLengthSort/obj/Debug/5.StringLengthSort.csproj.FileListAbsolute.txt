@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\bin\Debug\5.StringLengthSort.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\bin\Debug\5.StringLengthSort.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\bin\Debug\5.StringLengthSort.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\obj\Debug\5.StringLengthSort.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\obj\Debug\5.StringLengthSort.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\5.StringLengthSort\obj\Debug\5.StringLengthSort.pdb

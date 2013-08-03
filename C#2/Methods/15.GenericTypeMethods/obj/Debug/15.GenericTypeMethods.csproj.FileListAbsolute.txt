@@ -1,0 +1,5 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\15.GenericTypeMethods\bin\Debug\15.GenericTypeMethods.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\15.GenericTypeMethods\bin\Debug\15.GenericTypeMethods.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\15.GenericTypeMethods\bin\Debug\15.GenericTypeMethods.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\15.GenericTypeMethods\obj\Debug\15.GenericTypeMethods.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\15.GenericTypeMethods\obj\Debug\15.GenericTypeMethods.pdb

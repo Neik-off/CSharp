@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\bin\Debug\13.MenuOfOperations.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\bin\Debug\13.MenuOfOperations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\bin\Debug\13.MenuOfOperations.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\obj\Debug\13.MenuOfOperations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\obj\Debug\13.MenuOfOperations.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\13.MenuOfOperations\obj\Debug\13.MenuOfOperations.csprojResolveAssemblyReference.cache

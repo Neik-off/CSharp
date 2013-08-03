@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\bin\Debug\20.NKVariations.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\bin\Debug\20.NKVariations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\bin\Debug\20.NKVariations.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\obj\Debug\20.NKVariations.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\obj\Debug\20.NKVariations.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\20.NKVariations\obj\Debug\20.NKVariations.pdb

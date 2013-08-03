@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\bin\Debug\18.IncreasingOrded.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\bin\Debug\18.IncreasingOrded.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\bin\Debug\18.IncreasingOrded.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\obj\Debug\18.IncreasingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\obj\Debug\18.IncreasingOrded.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\18.IncreasingOrded\obj\Debug\18.IncreasingOrded.pdb

@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\bin\Debug\17.NSKSubset.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\bin\Debug\17.NSKSubset.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\bin\Debug\17.NSKSubset.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\obj\Debug\17.NSKSubset.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\obj\Debug\17.NSKSubset.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\17.NSKSubset\obj\Debug\17.NSKSubset.pdb

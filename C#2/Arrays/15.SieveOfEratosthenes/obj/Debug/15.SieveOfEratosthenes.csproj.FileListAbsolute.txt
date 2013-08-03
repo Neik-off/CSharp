@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.pdb

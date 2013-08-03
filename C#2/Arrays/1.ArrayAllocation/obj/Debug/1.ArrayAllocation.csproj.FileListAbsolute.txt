@@ -1,0 +1,6 @@
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\bin\Debug\1.ArrayAllocation.exe.config
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\bin\Debug\1.ArrayAllocation.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\bin\Debug\1.ArrayAllocation.pdb
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\obj\Debug\1.ArrayAllocation.csprojResolveAssemblyReference.cache
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\obj\Debug\1.ArrayAllocation.exe
+c:\users\н.нейков\documents\visual studio 2012\Projects\Arrays\1.ArrayAllocation\obj\Debug\1.ArrayAllocation.pdb

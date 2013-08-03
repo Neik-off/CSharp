@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\bin\Debug\14.OperationsClass.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\bin\Debug\14.OperationsClass.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\bin\Debug\14.OperationsClass.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\obj\Debug\14.OperationsClass.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\obj\Debug\14.OperationsClass.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\14.OperationsClass\obj\Debug\14.OperationsClass.pdb

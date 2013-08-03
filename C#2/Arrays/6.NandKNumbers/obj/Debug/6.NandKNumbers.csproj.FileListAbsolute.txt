@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\bin\Debug\6.NandKNumbers.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\bin\Debug\6.NandKNumbers.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\bin\Debug\6.NandKNumbers.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\obj\Debug\6.NandKNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\obj\Debug\6.NandKNumbers.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\6.NandKNumbers\obj\Debug\6.NandKNumbers.pdb

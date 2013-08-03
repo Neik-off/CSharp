@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\bin\Debug\08.DigitsInArrays.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\bin\Debug\08.DigitsInArrays.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\bin\Debug\08.DigitsInArrays.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\obj\Debug\08.DigitsInArrays.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\obj\Debug\08.DigitsInArrays.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Methods\08.DigitsInArrays\obj\Debug\08.DigitsInArrays.pdb

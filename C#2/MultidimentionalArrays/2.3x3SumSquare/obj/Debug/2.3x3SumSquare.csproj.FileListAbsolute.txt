@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\bin\Debug\2.3x3SumSquare.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\bin\Debug\2.3x3SumSquare.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\bin\Debug\2.3x3SumSquare.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\obj\Debug\2.3x3SumSquare.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\obj\Debug\2.3x3SumSquare.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\2.3x3SumSquare\obj\Debug\2.3x3SumSquare.pdb

@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\bin\Debug\10.ArraySSum.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\bin\Debug\10.ArraySSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\bin\Debug\10.ArraySSum.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\obj\Debug\10.ArraySSum.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\obj\Debug\10.ArraySSum.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\10.ArraySSum\obj\Debug\10.ArraySSum.csprojResolveAssemblyReference.cache

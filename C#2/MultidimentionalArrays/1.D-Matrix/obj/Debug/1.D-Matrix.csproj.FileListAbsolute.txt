@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\bin\Debug\1.D-Matrix.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\bin\Debug\1.D-Matrix.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\bin\Debug\1.D-Matrix.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\obj\Debug\1.D-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\obj\Debug\1.D-Matrix.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\1.D-Matrix\obj\Debug\1.D-Matrix.pdb

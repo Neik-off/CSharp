@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\bin\Debug\12.AlphabetSeatch.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\bin\Debug\12.AlphabetSeatch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\bin\Debug\12.AlphabetSeatch.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\obj\Debug\12.AlphabetSeatch.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\obj\Debug\12.AlphabetSeatch.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\12.AlphabetSeatch\obj\Debug\12.AlphabetSeatch.pdb

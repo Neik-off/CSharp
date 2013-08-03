@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\obj\Debug\5.MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\obj\Debug\5.MaximalSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\Arrays\5.MaximalSequence\obj\Debug\5.MaximalSequence.pdb

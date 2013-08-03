@@ -1,0 +1,6 @@
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\bin\Debug\3.LongestSequence.exe.config
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\bin\Debug\3.LongestSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\bin\Debug\3.LongestSequence.pdb
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\obj\Debug\3.LongestSequence.csprojResolveAssemblyReference.cache
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\obj\Debug\3.LongestSequence.exe
+C:\Users\Н.Нейков\Documents\Visual Studio 2012\Projects\MultidimentionalArrays\3.LongestSequence\obj\Debug\3.LongestSequence.pdb
